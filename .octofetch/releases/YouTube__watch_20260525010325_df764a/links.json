@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2880",
+  "folder": "YouTube__watch_20260525010325_df764a",
+  "base_name": "THE_ONE_PIECE_is_REAL_-_ONE_PIECE_Episodes_484_485_REACTION_8DApmonef8w_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads_yt122/releases/tag/co-releases-v1-2880",
+  "files": [
+    {
+      "name": "THE_ONE_PIECE_is_REAL_-_ONE_PIECE_Episodes_484_485_REACTION_8DApmonef8w_360p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads_yt122/releases/download/co-releases-v1-2880/THE_ONE_PIECE_is_REAL_-_ONE_PIECE_Episodes_484_485_REACTION_8DApmonef8w_360p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads_yt122/releases/assets/428917822",
+      "id": 428917822,
+      "size": 100848054,
+      "download_count": 0
+    }
+  ]
+}
